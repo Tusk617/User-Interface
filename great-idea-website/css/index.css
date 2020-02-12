@@ -85,6 +85,7 @@ header nav a{
 	margin: 1.5% 0 0 5%;
 	text-decoration: none;
 	color: gray;
+	font-size: 20px;
 }
 
 .logo {
@@ -108,17 +109,37 @@ section h1 {
 #get-started {
 	font-size: 18px;
 	display: block;
-	width: 5%;
+	width: 6%;
 	margin-left: 22%;
 	padding: 2px;
 }
 
-div h3 {
+.one {
 	display: inline-block;
-	width: auto;
+	width: 37%;
+}
+
+.two {
+	display: inline-block;
+	width: 37%;
+	margin-left: 5%;
 }
 
 .middle-img {
+	margin-left: 20%; 
+}
+
+.three {
 	display: inline-block;
-	margin: 0 0 0 25%;
+	width: 30%;
+}
+
+.four {
+	display: inline-block;
+	width: 30%;
+}
+
+.five {
+	display: inline-block;
+	width: 30%;
 }
