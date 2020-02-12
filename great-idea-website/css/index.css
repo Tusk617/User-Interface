@@ -4,7 +4,7 @@
 */
 * {
 	box-sizing: border-box;
-	border: 2px solid gray;
+	border: ;
 }
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
@@ -33,7 +33,7 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
 	line-height: 1;
-	margin: 5%;
+	margin: 5% 10%;
 }
 ol, ul {
 	list-style: none;
@@ -71,7 +71,6 @@ h1, h2, h3, h4, h5 {
 
 hr {
 	color: black;
-	width: 75%;
 }
 
 header nav {
@@ -107,13 +106,12 @@ section h1 {
 }
 
 #get-started {
-	font-size: 18px;
-	display: block;
-	width: 6%;
-	margin-left: 22%;
-	padding: 2px;
+	font-size: 20px;
+	display: inline-block;
+	margin-left: 25%;
+	margin-bottom: 5%;
 }
-
+/*Below here is the 'about' section*/
 .one {
 	display: inline-block;
 	width: 37%;
@@ -126,6 +124,7 @@ section h1 {
 }
 
 .middle-img {
+	display: inline-block;
 	margin-left: 20%; 
 }
 
@@ -137,9 +136,15 @@ section h1 {
 .four {
 	display: inline-block;
 	width: 30%;
+	margin-left: 1%;
 }
 
 .five {
 	display: inline-block;
 	width: 30%;
+	margin-left: 1%;
+}
+
+#copyright {
+	text-align: center;
 }
