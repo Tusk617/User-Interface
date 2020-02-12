@@ -33,6 +33,7 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
 	line-height: 1;
+	margin: 5%;
 }
 ol, ul {
 	list-style: none;
@@ -113,11 +114,6 @@ section h1 {
 }
 
 div h3 {
-	display: inline-block;
-	width: auto;
-}
-
-div p{
 	display: inline-block;
 	width: auto;
 }
