@@ -76,6 +76,7 @@ hr {
 header nav {
 	display: inline-block;
 	width: 70%;
+	
 }
 
 header nav a{
@@ -120,12 +121,13 @@ section h1 {
 .two {
 	display: inline-block;
 	width: 37%;
-	margin-left: 5%;
+	margin-left: 25%;
 }
 
 .middle-img {
 	display: inline-block;
-	margin-left: 20%; 
+	width: 100%;
+	height: 175px;
 }
 
 .three {
@@ -136,13 +138,13 @@ section h1 {
 .four {
 	display: inline-block;
 	width: 30%;
-	margin-left: 1%;
+	margin-left: 3%;
 }
 
 .five {
 	display: inline-block;
 	width: 30%;
-	margin-left: 1%;
+	margin-left: 5%;
 }
 
 #copyright {
